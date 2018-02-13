@@ -1,0 +1,6 @@
+[submodule "tt/lib/json"]
+	path = tt/lib/json
+	url = https://github.com/nlohmann/json
+[submodule "tt/lib/googletest"]
+	path = tt/lib/googletest
+	url = https://github.com/google/googletest
